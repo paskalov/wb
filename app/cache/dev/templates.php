@@ -78,6 +78,7 @@
   'DoctrineBundle:Collector:db.html.twig' => '/var/www/html/filmweb/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig',
   'DoctrineBundle:Collector:explain.html.twig' => '/var/www/html/filmweb/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig',
   'FilmwebWebsiteBundle::base.html.twig' => '/var/www/html/filmweb/src/Filmweb/WebsiteBundle/Resources/views/base.html.twig',
+  'FilmwebWebsiteBundle:UserOrders:user_orders.html.twig' => '/var/www/html/filmweb/src/Filmweb/WebsiteBundle/Resources/views/UserOrders/user_orders.html.twig',
   'FilmwebWebsiteBundle:Default:index.html.twig' => '/var/www/html/filmweb/src/Filmweb/WebsiteBundle/Resources/views/Default/index.html.twig',
   'FilmwebWebsiteBundle:SingleMovie:single_movie.html.twig' => '/var/www/html/filmweb/src/Filmweb/WebsiteBundle/Resources/views/SingleMovie/single_movie.html.twig',
   'FilmwebWebsiteBundle:SingleMovie:review_confirmation.html.twig' => '/var/www/html/filmweb/src/Filmweb/WebsiteBundle/Resources/views/SingleMovie/review_confirmation.html.twig',
